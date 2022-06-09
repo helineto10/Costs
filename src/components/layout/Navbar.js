@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="navbar">
       <Container>
         <Link to="/">
-          <img src={logo} />
+          <img src={logo} alt='Costs' />
         </Link>
         <ul className="list">
           <li className="item">
